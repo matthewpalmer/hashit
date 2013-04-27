@@ -1,6 +1,6 @@
 {
   "name": "hashit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple hashing method for passwords, codes and secret things",
   "main": "index.js",
   "scripts": {
