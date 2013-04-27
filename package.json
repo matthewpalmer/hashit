@@ -1,0 +1,23 @@
+{
+  "name": "hashit",
+  "version": "0.0.0",
+  "description": "A simple hashing method for passwords, codes and secret things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "hash",
+    "hashit",
+    "hashing",
+    "password",
+    "security",
+    "crypto",
+    "secret",
+    "auth",
+    "authorisation"
+  ],
+  "author": "Matthew Palmer",
+  "license": "BSD"
+}
