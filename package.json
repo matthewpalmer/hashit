@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test/test.js"
   },
-  "repository": "www.github.com/matthewpalmer/hashit",
+  "repository": "https://github.com/matthewpalmer/hashit.git",
   "keywords": [
     "hash",
     "hashit",
