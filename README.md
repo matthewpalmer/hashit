@@ -4,4 +4,4 @@ hashit is a simple method for making secure codes out of plain text. It uses sha
     var hashit = require('hashit');
     hashit('somepassword', 'yoursecretcode'); //returns a hashed string
 
-[Link to the Github Repo](www.github.com/matthewpalmer/hashit)
+[Link to the Github Repo](http://www.github.com/matthewpalmer/hashit)
